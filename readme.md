@@ -21,6 +21,7 @@ Prosty licznik stworzony w HTML, CSS i JavaScript.
 ## Demo
 [Zobacz wersję live](https://chorobcia09.github.io/counter/)
 
+[Ikona](https://www.flaticon.com/free-icon/cash-register_17975324?term=counter&page=1&position=10&origin=search&related_id=17975324)
 ---
 
 # Simple Counter App
@@ -46,3 +47,5 @@ Simple counter built with HTML, CSS, and JavaScript.
 
 ## Live Demo 
 [View live version](https://chorobcia09.github.io/counter/)
+
+[Icon](https://www.flaticon.com/free-icon/cash-register_17975324?term=counter&page=1&position=10&origin=search&related_id=17975324)
