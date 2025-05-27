@@ -2,7 +2,7 @@
 
 Prosty licznik stworzony w HTML, CSS i JavaScript.
 
-## 🧩 Funkcje
+## Funkcje
 - Liczenie w górę i w dół
 - Resetowanie wartości
 - Obsługa klawiatury: `+`, `-`, `r`
@@ -19,7 +19,7 @@ Prosty licznik stworzony w HTML, CSS i JavaScript.
 2. Uruchom index.html.
 
 ## Demo
-[Zobacz wersję live]()
+[Zobacz wersję live](https://chorobcia09.github.io/counter/)
 
 ---
 
@@ -28,11 +28,15 @@ Prosty licznik stworzony w HTML, CSS i JavaScript.
 Simple counter built with HTML, CSS, and JavaScript.
 
 ## Features
-
 - Increment and decrement buttons
 - Reset to zero
 - Keyboard support: `+`, `-`, `r`
 - Smooth hover and press effects
+
+## Technologies
+- HTML5
+- CSS3 (Flexbox, transitions)
+- JavaScript
 
 ## Getting Started
 
@@ -41,4 +45,4 @@ Simple counter built with HTML, CSS, and JavaScript.
 2. Run index.html
 
 ## Live Demo 
-[View live version]()
+[View live version](https://chorobcia09.github.io/counter/)
